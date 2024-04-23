@@ -1,0 +1,87 @@
+[
+    {
+        "id": 2,
+        "name": "Test event 1",
+        "date": "2024-03-06",
+        "organizer": {
+            "name": "fdev",
+            "email": "fdev@example.com"
+        },
+        "status": "active",
+        "type": "event",
+        "joiners": [
+            {
+                "name": "Test User",
+                "email": "test@test.com",
+                "country": "Hungary"
+            },
+            {
+                "name": "Adil",
+                "email": "adil@gmaill.com",
+                "country": "KG"
+            }
+        ],
+        "location": "Budapest, Hungary",
+        "max_attendees": 100
+    },
+    {
+        "id": 779,
+        "name": "string",
+        "date": "string",
+        "organizer": {
+            "name": "string",
+            "email": "string"
+        },
+        "status": "string",
+        "type": "string",
+        "joiners": [
+            {
+                "name": "string",
+                "email": "string",
+                "country": "string"
+            }
+        ],
+        "location": "string",
+        "max_attendees": 0
+    },
+    {
+        "id": 0,
+        "name": "string",
+        "date": "string",
+        "organizer": {
+            "name": "string",
+            "email": "string"
+        },
+        "status": "string",
+        "type": "string",
+        "joiners": [
+            {
+                "name": "string",
+                "email": "string",
+                "country": "string"
+            }
+        ],
+        "location": "string",
+        "max_attendees": 0
+    },
+    {
+        "id": 12,
+        "name": "string",
+        "date": "string",
+        "organizer": {
+            "name": "string",
+            "email": "string"
+        },
+        "status": "string",
+        "type": "string",
+        "joiners": [
+            {
+                "name": "string",
+                "email": "string",
+                "country": "string"
+            }
+        ],
+        "location": "string",
+        "max_attendees": 0
+    }
+]
